@@ -29,9 +29,11 @@ To build a dynamic and automated expense tracking system in Excel that provides 
 
 ## 📸 Dashboard Preview
 
-![Monthly Dashboard](https://github.com/aryanrajput16721/automated-expense-tracker-excel/blob/main/expense-dashboard-monthly.png?raw=true)
+### 🗓️ Monthly Expense Dashboard
+![Monthly Dashboard](https://github.com/aryanrajput16721/expense-tracker-dashboard-2022/blob/main/expense-dashboard-monthly.png?raw=true)
 
-![Annual Dashboard](https://github.com/aryanrajput16721/automated-expense-tracker-excel/blob/main/expense-dashboard-annual.png?raw=true)
+### 📅 Annual Expense Dashboard
+![Annual Dashboard](https://github.com/aryanrajput16721/expense-tracker-dashboard-2022/blob/main/expense-dashboard-annual.png?raw=true)
 
 > These dashboards visualize expenses across categories like Travel, Shopping, Food, Insurance, and more.
 
